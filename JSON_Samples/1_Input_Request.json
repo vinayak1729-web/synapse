@@ -1,0 +1,16 @@
+{
+    "Request_id": "6118b54f-907b-4451-8d48-dd13d76033a5",
+    "Datetime": "09-07-2025T12:34:55",
+    "Location": "IIT Mumbai",
+    "From": "userone.amd@gmail.com",
+    "Attendees": [
+        {
+            "email": "usertwo.amd@gmail.com"
+        },
+        {
+            "email": "userthree.amd@gmail.com"
+        }
+    ],
+    "Subject": "Agentic AI Project Status Update",
+    "EmailContent": "Hi team, let's meet on Thursday for 30 minutes to discuss the status of Agentic AI Project."
+}
