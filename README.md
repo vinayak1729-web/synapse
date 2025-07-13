@@ -17,7 +17,7 @@
 
 ## 🎯 Overview
 
-Synapse is an innovative AI-powered scheduling assistant designed to autonomously coordinate meetings, resolve conflicts, and optimize calendar schedules. Built for the **AMD AI Hackathon**, it leverages advanced Agentic AI to streamline workplace productivity by eliminating the inefficiencies of manual scheduling.
+Synapse is an innovative AI-powered scheduling assistant designed to autonomously coordinate meetings, resolve conflicts, and optimize calendar schedules. Built for the **AMD AI Hackathon**, it leverages advanced Agentic AI to streamline workplace productivity by eliminating the inefficiencies of manual scheduling with the help of **AMD 3I00X**.
 
 ### The Problem
 
